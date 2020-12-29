@@ -1,5 +1,6 @@
 # k8s
 - 参考资料：<http://docs.kubernetes.org.cn>
+- 参考资料：<https://docs.rancher.cn/rancher2/>
 - 参考资料：<https://www.bilibili.com/video/BV1w4411y7Go?p=7>
 
 ## todo
@@ -7,7 +8,7 @@
 ```
 
 ## 架构
-![image](img/16.jpg)
+![](img/16.jpg)
 ![](img/17.jpg)
 
 ### k8s和docker
