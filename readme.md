@@ -1,6 +1,6 @@
 # k8s
-参考资料：<https://www.bilibili.com/video/BV1w4411y7Go?p=7>
-参考资料：<http://docs.kubernetes.org.cn>
+- 参考资料：<https://www.bilibili.com/video/BV1w4411y7Go?p=7>
+- 参考资料：<http://docs.kubernetes.org.cn>
 
 ## todo
 ```shell script
